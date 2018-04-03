@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodOrderClient</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="register">Register</string>
+    <string name="order_item">order item</string>
+    <string name="enter_the_number_of_item">Item Count:</string>
+    <string name="_1">1</string>
+</resources>
